@@ -39,52 +39,6 @@ Sarwar-Jony = {
 ## 🛠️ Tech Stack & Skills
 
 ### 🌍 GIS & Remote Sensing
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ERDAS](https://img.shields.io/badge/ERDAS_Imagine-FF6B35?style=for-the-badge&logoColor=white)
-
-### 🐍 Python & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white)
-![Rasterio](https://img.shields.io/badge/Rasterio-CC0000?style=for-the-badge&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAD34?style=for-the-badge&logoColor=white)
-
-### 🗄️ Database & Web
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📂 Featured Projects
-
-| # | Project | Tools | Status |
-|---|---------|-------|--------|
-| 🗺️ | [Land Use Land Cover Classification](#) | GEE, Python, QGIS | ✅ Complete |
-| 🌊 | [Flood Mapping — Sentinel-1 SAR](#) | GEE, Rasterio, GDAL | ✅ Complete |
-| 🌿 | [NDVI Time Series Analysis](#) | GEE, GeoPandas, Matplotlib | ✅ Complete |
-| 🌡️ | [Land Surface Temperature Mapping](#) | GEE, Landsat-8, Python | ✅ Complete |
-| 💧 | [Water Quality Monitoring — Khulna](#) | GEE, Sentinel-2, Python | ✅ Complete |
-| 🏙️ | [Urban Heat Island Analysis](#) | GEE, ArcGIS Pro, Python | ✅ Complete |
-| 🌊 | [Coastal Salinity Mapping](#) | GEE, QGIS, GeoPandas | 🔄 In Progress |
-| 🌲 | [Forest Change Detection](#) | GEE, Python, Random Forest | 🔄 In Progress |
-| 🗃️ | [GIS Python Automation Scripts](#) | Python, GDAL, Shapely | ✅ Complete |
-| 🌐 | [Web GIS Dashboard](#) | Folium, Leaflet, PostGIS | 🔄 In Progress |
-
----
 
 ## 📊 Current Learning Path
 
@@ -160,19 +114,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 
 
 
-<h1 align="center">Hi 👋, I'm Sarwar Jony</h1>
-<h3 align="center">Geospatial Engineer | Urban & Regional Planner | GIS & Remote Sensing Experts | ML Engineer | Python Developer | Open Source GIS |</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarwar-jony&label=Profile%20views&color=0e75b6&style=flat" alt="sarwar-jony" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarwar-jony" alt="sarwar-jony" /></a> </p>
+**
 
 - 🔭 I’m currently working on **GIS Automation using Python, Google Earth Engine, ArcMap, ArcGIS Pro and QGIS.**
 
 - 🌱 I’m currently learning **QGIS, Python GIS Automation, Google Earth Engine, Remote Sensing, Cartography, and Spatial Analysis.**
 
-- 👯 I’m looking to collaborate on **Open Source GIS, Remote Sensing, Earth Observation, and Spatial Data Science projects.**
-
+- 👯 I’m looking to collaborate on **Open Source GIS, Remote Sensing, Earth Observation, and Spatial Data Science projects.
 - 🤝 I’m looking for help with **with advanced GIS Automation, Machine Learning, and Cloud-based Geospatial Systems.**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1j8qPNRLc2R78iV6oqB5AW_1oxNYh1gqp?usp=sharing](https://drive.google.com/drive/folders/1j8qPNRLc2R78iV6oqB5AW_1oxNYh1gqp?usp=sharing)
