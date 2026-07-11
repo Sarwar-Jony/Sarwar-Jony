@@ -30,7 +30,7 @@ Sarwar-Jony = {
     "location"    : "Khulna, Bangladesh",
     "focus"       : ["GIS", "Remote Sensing", "Python Automation",
                      "Google Earth Engine", "Urban Planning"],
-    "goal"        : "International GIS / Geospatial Career (Middle East & Beyond)",
+    "goal"        : "International GIS / Geospatial Career",
     "available"   : True
 }
 
