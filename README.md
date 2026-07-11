@@ -70,7 +70,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarwar-geospatial&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sarwar-jony&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,7 +111,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sarwar-geospatial&color=blue&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=sarwar-jony&color=blue&style=flat-square&label=Profile+Views)
 
 
 
