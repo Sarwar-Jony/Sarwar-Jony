@@ -35,25 +35,26 @@ Sarwar-Jony = {
 }
 
 
-```markdown
+```
+markdown
 ## 🛠️ Tech Stack & Skills
 
 ### 🌍 GIS & Remote Sensing
 
 ## 📊 Current Learning Path
 
-```text
-✅ Git & GitHub                    ██████████ 100%
-✅ QGIS & ArcGIS Pro               ██████████ 100%
-✅ Google Earth Engine             █████████░  90%
-✅ Python (GeoPandas, Rasterio)    ████████░░  80%
-🔄 Machine Learning for GIS        ██████░░░░  60%
-🔄 PostGIS & Spatial SQL           █████░░░░░  50%
-🔄 Web GIS (Leaflet, Folium)       █████░░░░░  50%
-📌 Cloud GIS (AWS, GCP)            ███░░░░░░░  30%
-```
 
----
+
+✅ Git & GitHub                    ██████████ 100% <br>
+✅ QGIS & ArcGIS Pro               ██████████ 100% <br>
+✅ Google Earth Engine             █████████░  90% <br>
+✅ Python (GeoPandas, Rasterio)    ████████░░  80% <br>
+🔄 Machine Learning for GIS        ██████░░░░  60% <br>
+🔄 PostGIS & Spatial SQL           █████░░░░░  50% <br>
+🔄 Web GIS (Leaflet, Folium)       █████░░░░░  50% <br>
+📌 Cloud GIS (AWS, GCP)            ███░░░░░░░  30% <br>
+
+
 
 ## 📈 GitHub Stats
 
@@ -79,7 +80,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-geospatial&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarwar-jony&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -89,7 +90,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 
 <div align="center">
 
-[![Sarwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarwar-geospatial&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sarwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarwar-jony&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -100,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwar-geosp
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarwar-jony)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarwar-geospatial.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarwar-jony.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarwarjony.gis@gmail.com)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net)
 
